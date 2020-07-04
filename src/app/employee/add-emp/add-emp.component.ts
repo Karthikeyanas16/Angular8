@@ -14,8 +14,8 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 export class AddEmpComponent implements OnInit {
 
   constructor(public dialogbox: MatDialogRef<AddEmpComponent>,
-    private service:EmployeeService,
-    private snackBar:MatSnackBar) { }
+    service:EmployeeService,
+    snackBar:MatSnackBar) { }
 
     ngOnInit(): void {
 

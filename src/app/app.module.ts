@@ -17,7 +17,7 @@ import { MatSnackBarModule } from '@angular/material/snack-bar';
 
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MatInputModule} from '@angular/material/input';
+import { MatInputModule } from '@angular/material/input';
 import { EmployeeComponent } from './employee/employee.component';
 import { ShowEmpComponent } from './employee/show-emp/show-emp.component';
 import { EditEmpComponent } from './employee/edit-emp/edit-emp.component';
